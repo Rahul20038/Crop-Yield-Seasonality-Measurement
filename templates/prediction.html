@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title -->
+    <title>Agricultural Crop Recommendations based on Productivity and Season</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="../static/img/core-img/favicon.ico">
+
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="../static/style.css">
+
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="preloader-circle"></div>
+        <div class="preloader-img">
+            <img src="../static/img/core-img/leaf.png" alt="">
+        </div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    <header class="header-area">
+
+        <!-- ***** Top Header Area ***** -->
+         
+        <!-- ***** Navbar Area ***** -->
+        <div class="alazea-main-menu">
+            <div class="classy-nav-container breakpoint-off">
+                <div class="container">
+                    <!-- Menu -->
+                    <nav class="classy-navbar justify-content-between" id="alazeaNav">
+
+                        <!-- Nav Brand -->
+                        <a href="index.html" class="nav-brand"><img src="" alt=""></a>
+
+                        <!-- Navbar Toggler -->
+                        <div class="classy-navbar-toggler">
+                            <span class="navbarToggler"><span></span><span></span><span></span></span>
+                        </div>
+
+                        <!-- Menu -->
+                        <div class="classy-menu">
+
+                            <!-- Close Button -->
+                            <div class="classycloseIcon">
+                                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                            </div>
+
+                            <!-- Navbar Start -->
+                            <div class="classynav">
+                                <ul>
+                                      <li><a href="{{ url_for('index')}}">Home</a></li>
+                                    <li><a href="{{ url_for('login')}}">Login</a></li>
+									<li><a href="{{ url_for('upload')}}">Upload</a></li>
+                                    <li><a href="{{ url_for('preview')}}">preview</a></li>
+									  <li><a href="{{ url_for('prediction')}}">Prediction</a></li>
+									  <li><a href="{{ url_for('analysis')}}">Analysis</a></li>
+									    <li><a href="{{ url_for('chart')}}">chart</a></li>
+                                </ul>
+
+                                <!-- Search Icon -->
+                              
+                            </div>
+                            <!-- Navbar End -->
+                        </div>
+                    </nav>
+
+                    <!-- Search Form -->
+                    <div class="search-form">
+                        <form action="#" method="get">
+                            <input type="search" name="search" id="search" placeholder="Type keywords &amp; press enter...">
+                            <button type="submit" class="d-none"></button>
+                        </form>
+                        <!-- Close Icon -->
+                        <div class="closeIcon"><i class="fa fa-times" aria-hidden="true"></i></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ##### Header Area End ##### -->
+
+    <!-- ##### Breadcrumb Area Start ##### -->
+    <div class="breadcrumb-area">
+        <!-- Top Breadcrumb Area -->
+        <div class="top-breadcrumb-area bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(../static/img/bg-img/24.jpg);">
+            <h2>crop Prediction</h2>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                     
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ##### Breadcrumb Area End ##### -->
+
+    <!-- ##### About Area Start ##### -->
+     
+    <!-- ##### Cool Facts Area End ##### -->
+
+    <!-- ##### Team Area Start ##### -->
+    <section class="team-area section-padding-100-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <!-- Section Heading -->
+                    <div class="section-heading text-center">
+                        <h2>crop Prediction</h2>
+                         
+                    </div>
+					 
+		  
+ <form action="{{ url_for('predict')}}"method="post">
+		 
+			 
+		
+		 <div class="span5">
+				<center><div class="control-group">
+				    
+					<label class="control-label" for="inputMessage"><b>Enter the details</b></label></br>
+				    </br>
+					 <div class="controls">
+			 <b>State</b>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<select type="text" style="width:130px;height:40px"   name="state" required="required" placeholder="state">
+                        <option value="1">Andhra Pradesh</option>
+						<option value="2">Arunachal Pradesh</option>
+						<option value="3">Assam</option>
+						<option value="4">Bihar</option>
+						<option value="5">Chhatisgarh</option>
+						<option value="6">Goa</option>
+						<option value="7">Gujarat</option>
+						<option value="8">Haryana</option>
+						<option value="9">Himachal Pradesh</option>
+						<option value="10">Jharkhand</option>
+						<option value="11">Karnataka</option>
+						<option value="12">Kerela</option>
+						<option value="13">Madhya Pradesh</option>
+						<option value="14">Maharashtra</option>
+						<option value="15">Manipur</option>
+						<option value="16">Meghalaya</option>
+						<option value="17">Mizoram</option>
+						<option value="18">Nagaland</option>
+						<option value="19">Odisha</option>
+						<option value="20">Punjab</option>
+						<option value="21">Rajasthan </option>
+						<option value="22">Sikkim</option>
+						<option value="23">Tamil Nadu</option>
+						<option value="24">Telangana</option>
+						<option value="25">Tripura</option>
+						<option value="26">Uttar Pradesh</option>
+						<option value="27">Uttarakhand</option>
+						<option value="28">West Bengal</option>
+						<option value="29">Andaman and Nicobar Island</option>
+						<option value="30">Dadra Nagar Haveli and Daman and Diu</option>
+						<option value="31">Chandigarh </option>
+						<option value="32">Delhi</option>
+						<option value="33">Jammu and Kashmir</option>
+						<option value="34">Lakshadweep</option>
+						<option value="35">Pudducherry</option>
+						<option value="36">Ladakh</option ></select>
+			      
+				   </div>
+				   </br>
+					 <div class="controls">
+		&nbsp;&nbsp;&nbsp;&nbsp;<b> Rainfall </b>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="Rainfall" placeholder="Rainfall" required="required" />
+			      
+				   </div>
+				   	   </br>
+ <div class="controls">
+			  <b> Ground Water</b>:&nbsp;&nbsp;<input type="text" name="Ground Water" placeholder="Ground Water" required="required" />
+			      
+				   </div>
+				   	   </br>
+ <div class="controls">
+			   &nbsp;&nbsp;&nbsp; <b> Temperature</b>: <input type="text" name="Temperature" placeholder="Temperature" required="required" />
+			      
+				   </div>
+				   	   </br>
+ <div class="controls">
+			    <b> Soil type </b>:&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<select type="text" style="width:130px;height:40px"   name="Soil type" required="required" placeholder="Soil type">
+                        <option value="1">Alluvial</option>
+						<option value="2">Black</option>
+						<option value="3">Clayey</option>
+						<option value="4">Latterite</option>
+						<option value="5">Red</option>
+						<option value="6">Sandy</option></select>
+			      
+				   </div>
+				   	   </br>
+ <div class="controls">
+	<b> Season </b>:&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<select type="text" style="width:130px;height:40px"   name="Season" required="required" placeholder="Season">
+                        <option value="1">Kharif</option>
+						<option value="2">rabi</option>
+						<option value="3">summar</option>
+						<option value="4">winter</option></select>
+				
+				
+				
+				
+				
+				
+				   </div>
+				   	   </br>
+  
+   <button type="submit" style="margin-left:70px" class="btn btn-success btn-large" >Predict </button>
+    </form></br>
+	</br>
+    	 	  <h2>Prediction is </h2><h1>{{ prediction_text }} </h1>
+				    
+				</div></center>
+			</div>
+					
+					
+					
+                </div>
+            </div>
+
+           
+        </div>
+    </section>
+    <!-- ##### Team Area End ##### -->
+
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer-area bg-img" style="background-image: url(../static/img/bg-img/3.jpg);">
+        <!-- Main Footer Area -->
+        <div class="main-footer-area">
+            <div class="container">
+                <div class="row">
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget">
+                            <div class="footer-logo mb-30">
+                                 
+                            </div>
+                            
+                            <div class="social-info">
+                                 
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget">
+                            <div class="widget-title">
+                               
+                            </div>
+                            <nav class="widget-nav">
+                                 
+                            </nav>
+                        </div>
+                    </div>
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget">
+                            <div class="widget-title">
+                                
+                            </div>
+
+                            <!-- Single Best Seller Products -->
+                            <div class="single-best-seller-product d-flex align-items-center">
+                                <div class="product-thumbnail">
+                                     
+                                </div>
+                                <div class="product-info">
+                                    
+                                </div>
+                            </div>
+
+                            <!-- Single Best Seller Products -->
+                            <div class="single-best-seller-product d-flex align-items-center">
+                                <div class="product-thumbnail">
+                                   
+                                </div>
+                                <div class="product-info">
+                                     
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Single Footer Widget -->
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget">
+                            <div class="widget-title">
+                               
+                            </div>
+
+                            <div class="contact-information">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer Bottom Area -->
+        <div class="footer-bottom-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="border-line"></div>
+                    </div>
+                    <!-- Copywrite Text -->
+                    <div class="col-12 col-md-6">
+                        <div class="copywrite-text">
+                           
+                        </div>
+                    </div>
+                    <!-- Footer Nav -->
+                    <div class="col-12 col-md-6">
+                        <div class="footer-nav">
+                            <nav>
+                                 
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- ##### All Javascript Files ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="../static/js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="../static/js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="../static/js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="../static/js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="../static/js/active.js"></script>
+</body>
+
+</html>

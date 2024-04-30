@@ -1,0 +1,822 @@
+Id,States,Rainfall,Ground Water,Temperature,Soil type,Season,Crops,Fertilisers required,Cost of cultivation,Expected revenues,Quantity of seeds per hectare,Duration of cultivation,Demand of crop,Crops for mixed cropping
+1,Andhra Pradesh,110.75,9.74,31.5,Clayey,Kharif,Paddy IGKVR-2 (IET 19795),"Potassium,Urea",22810,63851.8391,25kg,105-123,High,"Gram, Groundnut"
+2,Andhra Pradesh,110.75,9.74,31.5,Alluvial,Kharif,Paddy IGKVR-2 (IET 19795),"Potassium,Urea",22810,63851.8391,25kg,105-123,High,"Gram, Groundnut"
+3,Arunachal Pradesh,325,5,31.5,Clayey,Kharif,Paddy IGKVR-2 (IET 19795),"Potassium,Urea",22810,63851.8391,25kg,105-123,High,"Gram, Groundnut"
+4,Arunachal Pradesh,325,5,31.5,Alluvial,Kharif,Paddy IGKVR-2 (IET 19795),"Potassium,Urea",22810,63851.8391,25kg,105-123,High,"Gram, Groundnut"
+5,Andhra Pradesh,110.75,9.74,33,Clayey,Kharif,Paddy CR Dhan 501 (IET 19189),"Potassium,Urea",22810,63851.8391,25kg,105-126,High,"Gram, Groundnut"
+6,Andhra Pradesh,110.75,9.74,33,Alluvial,Kharif,Paddy CR Dhan 501 (IET 19189),"Potassium,Urea",22810,63851.8391,25kg,105-126,High,"Gram, Groundnut"
+7,Haryana,47.5,15,33,Clayey,Kharif,Paddy CR Dhan 501 (IET 19189),"Potassium,Urea",22810,63851.8391,25kg,105-126,High,"Gram, Groundnut"
+8,Haryana,47.5,15,33,Alluvial,Kharif,Paddy CR Dhan 501 (IET 19189),"Potassium,Urea",22810,63851.8391,25kg,105-126,High,"Gram, Groundnut"
+9,Maharashtra,246,3.2,33,Clayey,Kharif,Paddy CR Dhan 501 (IET 19189),"Potassium,Urea",22810,63851.8391,25kg,105-126,High,"Gram, Groundnut"
+10,Maharashtra,246,3.2,33,Alluvial,Kharif,Paddy CR Dhan 501 (IET 19189),"Potassium,Urea",22810,63851.8391,25kg,105-126,High,"Gram, Groundnut"
+11,Andhra Pradesh,110.75,9.74,20.5,Alluvial,rabi,Wheat VL Gehun 907 (VL 907),"Phosphorus,Nitrogen",17714,50166.54,112kg,60-154,High,"Horse Gram, Black Gram, Mustard"
+12,Arunachal Pradesh,325,5,20.5,Alluvial,rabi,Wheat VL Gehun 907 (VL 907),"Phosphorus,Nitrogen",17714,50166.54,112kg,60-154,High,"Horse Gram, Black Gram, Mustard"
+13,Chhatisgarh,130.4,5,20.5,Alluvial,rabi,Wheat VL Gehun 907 (VL 907),"Phosphorus,Nitrogen",17714,50166.54,112kg,60-154,High,"Horse Gram, Black Gram, Mustard"
+14,Chandigarh,105.5,28,20.5,Alluvial,rabi,Wheat VL Gehun 907 (VL 907),"Phosphorus,Nitrogen",17714,50166.54,112kg,60-154,High,"Horse Gram, Black Gram, Mustard"
+15,Andhra Pradesh,110.75,9.74,22,Alluvial,rabi,Wheat WHD 943,"Phosphorus,Nitrogen",17714,50166.54,112kg,60-157,High,"Horse Gram, Black Gram, Mustard"
+16,Ladakh,15,22.3,22,Alluvial,rabi,Wheat WHD 943,"Phosphorus,Nitrogen",17714,50166.54,112kg,60-157,High,"Horse Gram, Black Gram, Mustard"
+17,Andhra Pradesh,110.75,9.74,27.5,Clayey,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+18,Andhra Pradesh,110.75,9.74,27.5,Black,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+19,Bihar,125.6,7.5,27.5,Clayey,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+20,Bihar,125.6,7.5,27.5,Black,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+21,Chhatisgarh,130.4,5,27.5,Clayey,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+22,Chhatisgarh,130.4,5,27.5,Black,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+23,Maharashtra,246,3.2,27.5,Clayey,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+24,Maharashtra,246,3.2,27.5,Black,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+25,Nagaland,215,18.1,23.5,Clayey,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+26,Rajasthan,48.8,32,27.5,Clayey,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+27,Rajasthan,48.8,32,27.5,Black,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+28,Uttar Pradesh,134.65,6,27.5,Clayey,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+29,Uttar Pradesh,134.65,6,27.5,Black,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+30,West Bengal,250,9,27.5,Clayey,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+31,West Bengal,250,9,27.5,Black,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+32,Dadra Nagar Haveli and Daman and Diu,89,2,27.5,Clayey,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+33,Dadra Nagar Haveli and Daman and Diu,89,2,27.5,Black,Kharif,Millet Nandi-65 (MH-1549),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,5kg,65-70,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+34,Andhra Pradesh,110.75,9.74,20,Alluvial,rabi,Lentil Pant Lentil-8(Pant L-063),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-60,Moderate,"Barley, Wheat, Oats, Linseed"
+35,Andhra Pradesh,110.75,9.74,20,Black,rabi,Lentil Pant Lentil-8(Pant L-063),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-60,Moderate,"Barley, Wheat, Oats, Linseed"
+36,Bihar,125.6,7.5,20,Alluvial,rabi,Lentil Pant Lentil-8(Pant L-063),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-60,Moderate,"Barley, Wheat, Oats, Linseed"
+37,Bihar,125.6,7.5,20,Black,rabi,Lentil Pant Lentil-8(Pant L-063),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-60,Moderate,"Barley, Wheat, Oats, Linseed"
+38,Himachal Pradesh,127.5,22,20,Alluvial,rabi,Lentil Pant Lentil-8(Pant L-063),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-60,Moderate,"Barley, Wheat, Oats, Linseed"
+39,Himachal Pradesh,127.5,22,20,Black,rabi,Lentil Pant Lentil-8(Pant L-063),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-60,Moderate,"Barley, Wheat, Oats, Linseed"
+40,Madhya Pradesh,235.5,22,20,Alluvial,rabi,Lentil Pant Lentil-8(Pant L-063),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-60,Moderate,"Barley, Wheat, Oats, Linseed"
+41,Madhya Pradesh,235.5,22,20,Black,rabi,Lentil Pant Lentil-8(Pant L-063),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-60,Moderate,"Barley, Wheat, Oats, Linseed"
+42,Andhra Pradesh,110.75,9.74,30,Latterite,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+43,Andhra Pradesh,110.75,9.74,30,Black,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+44,Haryana,47.5,15,30,Latterite,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+45,Haryana,47.5,15,30,Black,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+46,Madhya Pradesh,235.5,22,30,Latterite,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+47,Madhya Pradesh,235.5,22,30,Black,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+48,Manipur,148.8,4,30,Latterite,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+49,Manipur,148.8,4,30.5,Black,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+50,Odisha,215,5,30,Latterite,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+51,Odisha,215,5,30.5,Black,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+52,Punjab,60,8.9,30,Latterite,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+53,Punjab,60,8.9,30.5,Black,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+54,Sikkim,299.5,50,30,Latterite,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+55,Sikkim,299.5,50,30,Black,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+56,Uttarakhand,164.5,7.5,30,Latterite,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+57,Uttarakhand,164.5,7.5,30,Black,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+58,Andaman and Nicobar Island,277,3.5,30,Latterite,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+59,Andaman and Nicobar Island,277,3.5,30,Black,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+60,Chandigarh,105.5,28,30,Latterite,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+61,Chandigarh,105.5,28,30,Black,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+62,Pudducherry,137.5,12.3,30,Latterite,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+63,Pudducherry,137.5,12.3,30,Black,Kharif,Bajra,"Nitrogen,Phosphorus,Potash",8000,70414.47817,4.5kg,45-50,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+64,Andhra Pradesh,110.75,9.74,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+65,Andhra Pradesh,110.75,9.74,22.5,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+66,Andhra Pradesh,110.75,9.74,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+67,Haryana,47.5,15,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+68,Haryana,47.5,15,22.5,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+69,Haryana,47.5,15,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+70,Haryana,47.5,15,22.5,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+71,Haryana,47.5,15,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+72,Himachal Pradesh,127.5,22,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+73,Himachal Pradesh,127.5,22,23,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+74,Himachal Pradesh,127.5,22,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+75,Karnataka,121.4,22,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+76,Karnataka,121.4,22,22.5,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+77,Karnataka,121.4,22,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+78,Manipur,148.8,4,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+79,Manipur,148.8,4,23,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+80,Manipur,148.8,4,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+81,Meghalaya,117.5,4,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+82,Meghalaya,117.5,4,22.5,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+83,Meghalaya,117.5,4,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+84,Nagaland,215,18.1,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+85,Nagaland,215,18.1,22.5,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+86,Nagaland,215,18.1,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+87,Sikkim,299.5,50,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+88,Sikkim,299.5,50,22.5,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+89,Sikkim,299.5,50,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+90,Tamil Nadu,145,16.67,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+91,Tamil Nadu,145,16.67,22.5,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+92,Tamil Nadu,145,16.67,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+93,Tripura,238.5,6.7,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+94,Tripura,238.5,6.7,22.5,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+95,Tripura,238.5,6.7,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+96,Andaman and Nicobar Island,277,3.5,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+97,Andaman and Nicobar Island,277,3.5,22.5,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+98,Andaman and Nicobar Island,277,3.5,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+99,Delhi,90,6.7,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+100,Delhi,90,6.7,22.5,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+101,Delhi,90,6.7,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+102,Lakshadweep,30,3.8,22.5,Latterite,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+103,Lakshadweep,30,3.8,22.5,Alluvial,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+104,Lakshadweep,30,3.8,22.5,Red,Kharif,Cardamom,NPK,"50,000","1,45,000",625g,730-735,Low,"Black Pepper, Arecanut, Coffee"
+105,Andhra Pradesh,110.75,9.74,30,Latterite,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+106,Andhra Pradesh,110.75,9.74,30,Black,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+107,Arunachal Pradesh,325,5,30,Latterite,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+108,Arunachal Pradesh,325,5,30,Black,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+109,Bihar,125.6,7.5,30,Latterite,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+110,Bihar,125.6,7.5,30,Black,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+111,Haryana,47.5,15,30,Latterite,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+112,Haryana,47.5,15,30,Black,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+113,Madhya Pradesh,235.5,22,30,Latterite,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+114,Madhya Pradesh,235.5,22,30.5,Black,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+115,Manipur,148.8,4,30,Latterite,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+116,Manipur,148.8,4,30.5,Black,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+117,Punjab,60,8.9,30,Latterite,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+118,Punjab,60,8.9,30.5,Black,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+119,Sikkim,299.5,50,30,Latterite,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+120,Sikkim,299.5,50,30,Black,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+121,Andaman and Nicobar Island,277,3.5,30,Latterite,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+122,Andaman and Nicobar Island,277,3.5,30,Black,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+123,Chandigarh,105.5,28,30,Latterite,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+124,Chandigarh,105.5,28,30,Black,Kharif,Urad,NPK,"15, 136","24,764",17.5kg,70-85,Moderate,Maize
+125,Andhra Pradesh,110.75,9.74,29.5,Alluvial,Kharif,Jowar,"Nitrogen,O2P5",8000,10974.06918,38kg,65-75,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+126,Andhra Pradesh,110.75,9.74,29.5,Black,Kharif,Jowar,"Nitrogen,O2P5",8000,10974.06918,38kg,65-75,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+127,Bihar,125.6,7.5,29.5,Alluvial,Kharif,Jowar,"Nitrogen,O2P5",8000,10974.06918,38kg,65-75,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+128,Chhatisgarh,130.4,5,29.5,Alluvial,Kharif,Jowar,"Nitrogen,O2P5",8000,10974.06918,38kg,65-75,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+129,Goa,295,13,29.5,Alluvial,Kharif,Jowar,"Nitrogen,O2P5",8000,10974.06918,38kg,65-75,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+130,Haryana,47.5,15,29.5,Alluvial,Kharif,Jowar,"Nitrogen,O2P5",8000,10974.06918,38kg,65-75,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+131,Karnataka,121.4,22,29.5,Alluvial,Kharif,Jowar,"Nitrogen,O2P5",8000,10974.06918,38kg,65-75,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+132,Telangana,87.5,8,29.5,Alluvial,Kharif,Jowar,"Nitrogen,O2P5",8000,10974.06918,38kg,65-75,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+133,Uttarakhand,164.5,7.5,29.5,Alluvial,Kharif,Jowar,"Nitrogen,O2P5",8000,10974.06918,38kg,65-75,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+134,Lakshadweep,30,3.8,29.5,Alluvial,Kharif,Jowar,"Nitrogen,O2P5",8000,10974.06918,38kg,65-75,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+135,Arunachal Pradesh,325,5,31.5,Clayey,Kharif,Paddy CR Dhan 401 (REETA),"Potassium,Urea",22810,63851.8391,25kg,105-124,High,"Gram, Groundnut"
+136,Arunachal Pradesh,325,5,31.5,Alluvial,Kharif,Paddy CR Dhan 401 (REETA),"Potassium,Urea",22810,63851.8391,25kg,105-124,High,"Gram, Groundnut"
+137,Maharashtra,246,3.2,32,Clayey,Kharif,Paddy CR Dhan 401 (REETA),"Potassium,Urea",22810,63851.8391,25kg,105-124,High,"Gram, Groundnut"
+138,Maharashtra,246,3.2,32,Alluvial,Kharif,Paddy CR Dhan 401 (REETA),"Potassium,Urea",22810,63851.8391,25kg,105-124,High,"Gram, Groundnut"
+139,Arunachal Pradesh,325,5,29,Clayey,Kharif,Millet MH 1540 (86M64) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-73,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+140,Arunachal Pradesh,325,5,29,Black,Kharif,Millet MH 1540 (86M64) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-73,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+141,Gujarat,115.7,35,29,Clayey,Kharif,Millet MH 1540 (86M64) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-73,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+142,Gujarat,115.7,35,29,Black,Kharif,Millet MH 1540 (86M64) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-73,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+143,Madhya Pradesh,235.5,22,29,Clayey,Kharif,Millet MH 1540 (86M64) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-73,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+144,Madhya Pradesh,235.5,22,29,Black,Kharif,Millet MH 1540 (86M64) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-73,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+145,Punjab,60,8.9,29,Clayey,Kharif,Millet MH 1540 (86M64) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-73,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+146,Punjab,60,8.9,29,Black,Kharif,Millet MH 1540 (86M64) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-73,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+147,Arunachal Pradesh,325,5,28,Alluvial,Kharif,Sugarcane Karan 5 (Co 0124),Nitrogen,24538,893130.4967,40qq,300-451,High,"Moong, Cowpea, Urad"
+148,Arunachal Pradesh,325,5,28,Black,Kharif,Sugarcane Karan 5 (Co 0124),Nitrogen,24538,893130.4967,40qq,300-451,High,"Moong, Cowpea, Urad"
+149,Haryana,47.5,15,28,Alluvial,Kharif,Sugarcane Karan 5 (Co 0124),Nitrogen,24538,893130.4967,40qq,300-451,High,"Moong, Cowpea, Urad"
+150,Haryana,47.5,15,28,Black,Kharif,Sugarcane Karan 5 (Co 0124),Nitrogen,24538,893130.4967,40qq,300-451,High,"Moong, Cowpea, Urad"
+151,Karnataka,121.4,22,28,Alluvial,Kharif,Sugarcane Karan 5 (Co 0124),Nitrogen,24538,893130.4967,40qq,300-451,High,"Moong, Cowpea, Urad"
+152,Karnataka,121.4,22,28,Black,Kharif,Sugarcane Karan 5 (Co 0124),Nitrogen,24538,893130.4967,40qq,300-451,High,"Moong, Cowpea, Urad"
+153,Madhya Pradesh,235.5,22,28,Alluvial,Kharif,Sugarcane Karan 5 (Co 0124),Nitrogen,24538,893130.4967,40qq,300-451,High,"Moong, Cowpea, Urad"
+154,Madhya Pradesh,235.5,22,28,Black,Kharif,Sugarcane Karan 5 (Co 0124),Nitrogen,24538,893130.4967,40qq,300-451,High,"Moong, Cowpea, Urad"
+155,Pudducherry,137.5,12.3,28,Alluvial,Kharif,Sugarcane Karan 5 (Co 0124),Nitrogen,24538,893130.4967,40qq,300-451,High,"Moong, Cowpea, Urad"
+156,Pudducherry,137.5,12.3,28,Black,Kharif,Sugarcane Karan 5 (Co 0124),Nitrogen,24538,893130.4967,40qq,300-451,High,"Moong, Cowpea, Urad"
+157,Arunachal Pradesh,325,5,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+158,Arunachal Pradesh,325,5,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+159,Arunachal Pradesh,325,5,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+160,Bihar,125.6,7.5,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+161,Bihar,125.6,7.5,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+162,Bihar,125.6,7.5,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+163,Goa,295,13,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+164,Goa,295,13,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+165,Goa,295,13,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+166,Haryana,47.5,15,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+167,Haryana,47.5,15,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+168,Haryana,47.5,15,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+169,Himachal Pradesh,127.5,22,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+170,Himachal Pradesh,127.5,22,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+171,Himachal Pradesh,127.5,22,30.5,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+172,Karnataka,121.4,22,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+173,Karnataka,121.4,22,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+174,Karnataka,121.4,22,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+175,Manipur,148.8,4,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+176,Manipur,148.8,4,30.5,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+177,Manipur,148.8,4,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+178,Meghalaya,117.5,4,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+179,Meghalaya,117.5,4,30.5,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+180,Meghalaya,117.5,4,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+181,Nagaland,215,18.1,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+182,Nagaland,215,18.1,30.5,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+183,Nagaland,215,18.1,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+184,Sikkim,299.5,50,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+185,Sikkim,299.5,50,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+186,Sikkim,299.5,50,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+187,Sikkim,299.5,50,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+188,Sikkim,299.5,50,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+189,Tamil Nadu,145,16.67,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+190,Tamil Nadu,145,16.67,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+191,Tamil Nadu,145,16.67,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+192,Tripura,238.5,6.7,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+193,Tripura,238.5,6.7,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+194,Tripura,238.5,6.7,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+195,Andaman and Nicobar Island,277,3.5,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+196,Andaman and Nicobar Island,277,3.5,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+197,Andaman and Nicobar Island,277,3.5,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+198,Chandigarh,105.5,28,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+199,Chandigarh,105.5,28,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+200,Chandigarh,105.5,28,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+201,Delhi,90,6.7,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+202,Delhi,90,6.7,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+203,Delhi,90,6.7,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+204,Lakshadweep,30,3.8,30,Latterite,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+205,Lakshadweep,30,3.8,30,Alluvial,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+206,Lakshadweep,30,3.8,30,Red,Kharif,Clove,NPK,"1,90,300","4,38,800",2kg,120-180,Low,"Coffee, Coconut, Arecanut"
+207,Arunachal Pradesh,325,5,28.5,Clayey,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+208,Arunachal Pradesh,325,5,28.5,Latterite,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+209,Arunachal Pradesh,325,5,28.5,Clayey,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+210,Goa,295,13,28.5,Clayey,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+211,Goa,295,13,28.5,Latterite,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+212,Goa,295,13,28.5,Alluvial,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+213,Gujarat,115.7,35,28.5,Clayey,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+214,Gujarat,115.7,35,28.5,Latterite,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+215,Gujarat,115.7,35,28.5,Latterite,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+216,Maharashtra,246,3.2,28.5,Clayey,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+217,Maharashtra,246,3.2,28.5,Latterite,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+218,Maharashtra,246,3.2,28.5,Alluvial,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+219,Manipur,148.8,4,28.5,Clayey,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+220,Manipur,148.8,4,29,Latterite,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+221,Manipur,148.8,4,28.5,Alluvial,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+222,Meghalaya,117.5,4,28.5,Clayey,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+223,Meghalaya,117.5,4,28.5,Latterite,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+224,Meghalaya,117.5,4,28.5,Alluvial,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+225,Tamil Nadu,145,16.67,28.5,Clayey,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+226,Tamil Nadu,145,16.67,28.5,Latterite,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+227,Tamil Nadu,145,16.67,28.5,Alluvial,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+228,West Bengal,250,9,28.5,Clayey,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+229,West Bengal,250,9,28.5,Latterite,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+230,West Bengal,250,9,28.5,Alluvial,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+231,Andaman and Nicobar Island,277,3.5,28.5,Clayey,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+232,Andaman and Nicobar Island,277,3.5,28.5,Latterite,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+233,Andaman and Nicobar Island,277,3.5,28.5,Alluvial,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+234,Dadra Nagar Haveli and Daman and Diu,89,2,28.5,Clayey,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+235,Dadra Nagar Haveli and Daman and Diu,89,2,28.5,Latterite,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+236,Dadra Nagar Haveli and Daman and Diu,89,2,28.5,Alluvial,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+237,Lakshadweep,30,3.8,28.5,Clayey,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+238,Lakshadweep,30,3.8,28.5,Latterite,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+239,Lakshadweep,30,3.8,28.5,Alluvial,rabi,Banana,NPK,61 592,89485,5000 plants,365-370,Moderate,Tumeric
+240,Arunachal Pradesh,325,5,30,Alluvial,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+241,Arunachal Pradesh,325,5,30,Black,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+242,Bihar,125.6,7.5,30,Alluvial,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+243,Bihar,125.6,7.5,30,Black,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+244,Goa,295,13,30,Alluvial,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+245,Goa,295,13,30,Black,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+246,Himachal Pradesh,127.5,22,30,Alluvial,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+247,Himachal Pradesh,127.5,22,30.5,Black,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+248,Jharkhand,121.4,12,30,Alluvial,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+249,Jharkhand,121.4,12,30,Black,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+250,Uttar Pradesh,134.65,6,30,Alluvial,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+251,Uttar Pradesh,134.65,6,30,Black,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+252,Uttarakhand,164.5,7.5,30,Alluvial,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+253,Uttarakhand,164.5,7.5,30,Black,summar,Moong,"Phosphorus,Nitrogen,Rhizobium","5,954","40,000",22kg,60-65,Moderate,Cotton
+254,Arunachal Pradesh,325,5,32.5,Black,Kharif,Arhar,"NPK,Rhizobium","40,000","42,700",15kg,120-200,Moderate,"Red gram, Tur Daal"
+255,Chhatisgarh,130.4,5,32.5,Black,Kharif,Arhar,"NPK,Rhizobium","40,000","42,700",15kg,120-200,Moderate,"Red gram, Tur Daal"
+256,Madhya Pradesh,235.5,22,32.5,Black,Kharif,Arhar,"NPK,Rhizobium","40,000","42,700",15kg,120-200,Moderate,"Red gram, Tur Daal"
+257,Punjab,60,8.9,32.5,Black,Kharif,Arhar,"NPK,Rhizobium","40,000","42,700",15kg,120-200,Moderate,"Red gram, Tur Daal"
+258,Assam,156.2,1.62,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+259,Assam,156.2,1.62,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+260,Assam,156.2,1.62,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+261,Gujarat,115.7,35,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+262,Gujarat,115.7,35,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+263,Gujarat,115.7,35,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+264,Haryana,47.5,15,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+265,Haryana,47.5,15,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+266,Haryana,47.5,15,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+267,Himachal Pradesh,127.5,22,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+268,Himachal Pradesh,127.5,22,23,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+269,Himachal Pradesh,127.5,22,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+270,Maharashtra,246,3.2,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+271,Maharashtra,246,3.2,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+272,Maharashtra,246,3.2,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+273,Manipur,148.8,4,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+274,Manipur,148.8,4,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+275,Manipur,148.8,4,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+276,Meghalaya,117.5,4,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+277,Meghalaya,117.5,4,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+278,Meghalaya,117.5,4,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+279,Rajasthan,48.8,32,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+280,Rajasthan,48.8,32,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+281,Rajasthan,48.8,32,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+282,Sikkim,299.5,50,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+283,Sikkim,299.5,50,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+284,Sikkim,299.5,50,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+285,Tamil Nadu,145,16.67,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+286,Tamil Nadu,145,16.67,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+287,Tamil Nadu,145,16.67,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+288,West Bengal,250,9,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+289,West Bengal,250,9,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+290,West Bengal,250,9,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+291,Andaman and Nicobar Island,277,3.5,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+292,Andaman and Nicobar Island,277,3.5,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+293,Andaman and Nicobar Island,277,3.5,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+294,Dadra Nagar Haveli and Daman and Diu,89,2,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+295,Dadra Nagar Haveli and Daman and Diu,89,2,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+296,Dadra Nagar Haveli and Daman and Diu,89,2,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+297,Chandigarh,105.5,28,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+298,Chandigarh,105.5,28,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+299,Chandigarh,105.5,28,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+300,Delhi,90,6.7,22.5,Clayey,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+301,Delhi,90,6.7,22.5,Latterite,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+302,Delhi,90,6.7,22.5,Alluvial,winter,Oilseed,"Magnesium, Calcium, Potassium",30448,"38,250",4kg,110-115,High,"Groundnut, Castor, Sesame, Chick pea"
+303,Assam,156.2,1.62,25,Clayey,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+304,Assam,156.2,1.62,25,Red,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+305,Gujarat,115.7,35,25,Clayey,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+306,Gujarat,115.7,35,25,Red,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+307,Karnataka,121.4,22,25,Clayey,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+308,Karnataka,121.4,22,25.5,Red,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+309,Maharashtra,246,3.2,25,Clayey,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+310,Maharashtra,246,3.2,25.5,Red,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+311,Nagaland,215,18.1,25,Clayey,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+312,Nagaland,215,18.1,25.5,Red,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+313,Rajasthan,48.8,32,25,Clayey,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+314,Rajasthan,48.8,32,25,Red,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+315,Tripura,238.5,6.7,25,Clayey,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+316,Tripura,238.5,6.7,25,Red,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+317,West Bengal,250,9,25,Clayey,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+318,West Bengal,250,9,25,Red,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+319,Dadra Nagar Haveli and Daman and Diu,89,2,25,Clayey,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+320,Dadra Nagar Haveli and Daman and Diu,89,2,25,Red,Kharif,Tea,"UT 752,Dolomite","5,023",353763,1650kg,60-65,High,"Cocoa, Coffee, Rubber"
+321,Assam,156.2,1.62,21.5,Black,Kharif,Coffee,"Nitrogen,Ammonium Nitrate",442513,"2, 49,600",4500 seeds,240-270,Moderate,"Arecanut, Orange, Cardamom, Pepper, Oil palm"
+322,Goa,295,13,21.5,Black,Kharif,Coffee,"Nitrogen,Ammonium Nitrate",442513,"2, 49,600",4500 seeds,240-270,Moderate,"Arecanut, Orange, Cardamom, Pepper, Oil palm"
+323,Kerela,315.7,20,21.5,Black,Kharif,Coffee,"Nitrogen,Ammonium Nitrate",442513,"2, 49,600",4500 seeds,240-270,Moderate,"Arecanut, Orange, Cardamom, Pepper, Oil palm"
+324,Madhya Pradesh,235.5,22,21.5,Black,Kharif,Coffee,"Nitrogen,Ammonium Nitrate",442513,"2, 49,600",4500 seeds,240-270,Moderate,"Arecanut, Orange, Cardamom, Pepper, Oil palm"
+325,Uttarakhand,164.5,7.5,21.5,Black,Kharif,Coffee,"Nitrogen,Ammonium Nitrate",442513,"2, 49,600",4500 seeds,240-270,Moderate,"Arecanut, Orange, Cardamom, Pepper, Oil palm"
+326,Lakshadweep,30,3.8,21.5,Black,Kharif,Coffee,"Nitrogen,Ammonium Nitrate",442513,"2, 49,600",4500 seeds,240-270,Moderate,"Arecanut, Orange, Cardamom, Pepper, Oil palm"
+327,Assam,156.2,1.62,25,Alluvial,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+328,Assam,156.2,1.62,25,Black,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+329,Chhatisgarh,130.4,5,25,Alluvial,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+330,Chhatisgarh,130.4,5,25,Black,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+331,Himachal Pradesh,127.5,22,25,Alluvial,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+332,Himachal Pradesh,127.5,22,25,Black,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+333,Madhya Pradesh,235.5,22,25,Alluvial,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+334,Madhya Pradesh,235.5,22,25.5,Black,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+335,Meghalaya,117.5,4,25,Alluvial,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+336,Meghalaya,117.5,4,25.5,Black,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+337,Mizoram,257,8,25,Alluvial,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+338,Mizoram,257,8,25.5,Black,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+339,Tamil Nadu,145,16.67,25,Alluvial,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+340,Tamil Nadu,145,16.67,25,Black,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+341,Delhi,90,6.7,25,Alluvial,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+342,Delhi,90,6.7,25,Black,Kharif,Turmeric,"Nitrogen,Potassium,Phosphorus","43, 441",80548,2500kg Rhizomes,210-270,Moderate,"Coconut, Arecanut"
+343,Assam,156.2,1.62,25,Red,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+344,Assam,156.2,1.62,25,Sandy,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+345,Assam,156.2,1.62,25,Black,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+346,Karnataka,121.4,22,25,Red,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+347,Karnataka,121.4,22,25,Sandy,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+348,Karnataka,121.4,22,25,Black,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+349,Kerela,315.7,20,25,Red,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+350,Kerela,315.7,20,25,Sandy,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+351,Kerela,315.7,20,25,Black,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+352,Kerela,315.7,20,25,Red,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+353,Kerela,315.7,20,25,Sandy,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+354,Kerela,315.7,20,25,Black,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+355,Nagaland,215,18.1,25,Red,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+356,Nagaland,215,18.1,25.5,Sandy,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+357,Nagaland,215,18.1,25,Black,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+358,Odisha,215,5,25,Red,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+359,Odisha,215,5,25,Sandy,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+360,Odisha,215,5,25,Black,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+361,Tripura,238.5,6.7,25,Red,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+362,Tripura,238.5,6.7,25,Sandy,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+363,Tripura,238.5,6.7,25,Black,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+364,Uttar Pradesh,134.65,6,25,Red,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+365,Uttar Pradesh,134.65,6,25,Sandy,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+366,Uttar Pradesh,134.65,6,25,Black,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+367,Uttarakhand,164.5,7.5,25,Red,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+368,Uttarakhand,164.5,7.5,25,Sandy,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+369,Uttarakhand,164.5,7.5,25,Black,rabi,Cashewnut,"Manure,NPK","10,369",91548.76,625 seedlings,1030-1035,Low,"Groundnut, Horse gram, Cowpea"
+370,Assam,156.2,1.62,27.5,Sandy,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+371,Assam,156.2,1.62,27.5,Black,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+372,Bihar,125.6,7.5,27.5,Sandy,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+373,Bihar,125.6,7.5,27.5,Black,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+374,Karnataka,121.4,22,27.5,Sandy,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+375,Karnataka,121.4,22,27.5,Black,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+376,Madhya Pradesh,235.5,22,27.5,Sandy,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+377,Madhya Pradesh,235.5,22,28,Black,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+378,Odisha,215,5,27.5,Sandy,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+379,Odisha,215,5,28,Black,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+380,Punjab,60,8.9,27.5,Sandy,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+381,Punjab,60,8.9,28,Black,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+382,Uttar Pradesh,134.65,6,27.5,Sandy,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+383,Uttar Pradesh,134.65,6,27.5,Black,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+384,Lakshadweep,30,3.8,27.5,Sandy,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+385,Lakshadweep,30,3.8,27.5,Black,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+386,Pudducherry,137.5,12.3,30,Sandy,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+387,Pudducherry,137.5,12.3,30,Black,Kharif,Ragi,NPK,10000,50636.3761,12kg,5.0-7.0,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+388,Assam,156.2,1.62,23.5,Black,Kharif,Soyabean,"MAP,Phosphorus",21000,70632.15286,75kg,45-65,Moderate,"Soyabean, Sesame"
+389,Goa,295,13,23.5,Black,Kharif,Soyabean,"MAP,Phosphorus",21000,70632.15286,75kg,45-65,Moderate,"Soyabean, Sesame"
+390,Assam,156.2,1.62,30,Latterite,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+391,Assam,156.2,1.62,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+392,Assam,156.2,1.62,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+393,Bihar,125.6,7.5,30,Latterite,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+394,Bihar,125.6,7.5,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+395,Bihar,125.6,7.5,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+396,Haryana,47.5,15,30,Latterite,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+397,Haryana,47.5,15,30.5,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+398,Haryana,47.5,15,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+399,Madhya Pradesh,235.5,22,30,Latterite,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+400,Madhya Pradesh,235.5,22,30.5,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+401,Madhya Pradesh,235.5,22,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+402,Manipur,148.8,4,30,Latterite,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+403,Manipur,148.8,4,30.5,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+404,Manipur,148.8,4,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+405,Punjab,60,8.9,30,Latterite,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+406,Punjab,60,8.9,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+407,Punjab,60,8.9,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+408,Sikkim,299.5,50,30,Latterite,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+409,Sikkim,299.5,50,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+410,Sikkim,299.5,50,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+411,Telangana,87.5,8,30,Latterite,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+412,Telangana,87.5,8,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+413,Telangana,87.5,8,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+414,Uttar Pradesh,134.65,6,30,Latterite,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+415,Uttar Pradesh,134.65,6,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+416,Andaman and Nicobar Island,277,3.5,30,Latterite,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+417,Andaman and Nicobar Island,277,3.5,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+418,Andaman and Nicobar Island,277,3.5,30,Black,rabi,Black Gram,NPK,16610,50058.97238,22kg,70-85,Moderate,Wheat
+419,Assam,156.2,1.62,20,Black,rabi,Khesari,Basal dose,"5,954",28000,70kg,125-130,Moderate,"Pigeon pea, Gram "
+420,Bihar,125.6,7.5,20,Black,rabi,Khesari,Basal dose,"5,954",28000,70kg,125-130,Moderate,"Pigeon pea, Gram "
+421,Assam,156.2,1.62,19,Alluvial,rabi,Wheat MACS 6222,"Phosphorus,Nitrogen",17714,50166.54,112kg,60-151,High,"Horse Gram, Black Gram, Mustard"
+422,Bihar,125.6,7.5,19,Alluvial,rabi,Wheat MACS 6222,"Phosphorus,Nitrogen",17714,50166.54,112kg,60-151,High,"Horse Gram, Black Gram, Mustard"
+423,Bihar,125.6,7.5,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+424,Bihar,125.6,7.5,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+425,Bihar,125.6,7.5,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+426,Bihar,125.6,7.5,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+427,Chhatisgarh,130.4,5,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+428,Chhatisgarh,130.4,5,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+429,Chhatisgarh,130.4,5,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+430,Chhatisgarh,130.4,5,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+431,Himachal Pradesh,127.5,22,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+432,Himachal Pradesh,127.5,22,28,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+433,Himachal Pradesh,127.5,22,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+434,Himachal Pradesh,127.5,22,28,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+435,Karnataka,121.4,22,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+436,Karnataka,121.4,22,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+437,Karnataka,121.4,22,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+438,Karnataka,121.4,22,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+439,Kerela,315.7,20,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+440,Kerela,315.7,20,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+441,Kerela,315.7,20,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+442,Kerela,315.7,20,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+443,Meghalaya,117.5,4,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+444,Meghalaya,117.5,4,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+445,Meghalaya,117.5,4,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+446,Meghalaya,117.5,4,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+447,Nagaland,215,18.1,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+448,Nagaland,215,18.1,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+449,Nagaland,215,18.1,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+450,Nagaland,215,18.1,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+451,Odisha,215,5,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+452,Odisha,215,5,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+453,Odisha,215,5,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+454,Odisha,215,5,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+455,Punjab,60,8.9,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+456,Punjab,60,8.9,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+457,Punjab,60,8.9,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+458,Punjab,60,8.9,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+459,Tamil Nadu,145,16.67,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+460,Tamil Nadu,145,16.67,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+461,Tamil Nadu,145,16.67,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+462,Tamil Nadu,145,16.67,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+463,Tripura,238.5,6.7,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+464,Tripura,238.5,6.7,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+465,Tripura,238.5,6.7,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+466,Tripura,238.5,6.7,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+467,Uttar Pradesh,134.65,6,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+468,Uttar Pradesh,134.65,6,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+469,Uttar Pradesh,134.65,6,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+470,Uttar Pradesh,134.65,6,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+471,Uttarakhand,164.5,7.5,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+472,Uttarakhand,164.5,7.5,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+473,Uttarakhand,164.5,7.5,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+474,Uttarakhand,164.5,7.5,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+475,Delhi,90,6.7,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+476,Delhi,90,6.7,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+477,Delhi,90,6.7,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+478,Delhi,90,6.7,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+479,Lakshadweep,30,3.8,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+480,Lakshadweep,30,3.8,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+481,Lakshadweep,30,3.8,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+482,Lakshadweep,30,3.8,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+483,Pudducherry,137.5,12.3,27.5,Red,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+484,Pudducherry,137.5,12.3,27.5,Black,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+485,Pudducherry,137.5,12.3,27.5,Sandy,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+486,Pudducherry,137.5,12.3,27.5,Alluvial,rabi,Black Pepper,"Lime,Dolomite","4,16,024","1,65,000",4.5kg,120-150,Low,Arecanut
+487,Bihar,125.6,7.5,22.5,Alluvial,Kharif,Chillies,"Compost,Nitrogen,Phosphorus",122935,"3,00,440.00",1kg,40-45,Low,"Maize, Brinjal, Garlic"
+488,Karnataka,121.4,22,22.5,Alluvial,Kharif,Chillies,"Compost,Nitrogen,Phosphorus",122935,"3,00,440.00",1kg,40-45,Low,"Maize, Brinjal, Garlic"
+489,Bihar,125.6,7.5,20,Black,rabi,Garlic,NPK,"27,500",400000,250kg,120-150,Low,Chillies
+490,Bihar,125.6,7.5,20,Alluvial,rabi,Garlic,NPK,"27,500",400000,250kg,120-150,Low,Chillies
+491,Chhatisgarh,130.4,5,20,Black,rabi,Garlic,NPK,"27,500",400000,250kg,120-150,Low,Chillies
+492,Chhatisgarh,130.4,5,20,Alluvial,rabi,Garlic,NPK,"27,500",400000,250kg,120-150,Low,Chillies
+493,Bihar,125.6,7.5,18.5,Alluvial,rabi,Wheat MPO(JW) 1215 (MPO 1215),"Phosphorus,Nitrogen",17714,50166.54,112kg,60-150,High,"Horse Gram, Black Gram, Mustard"
+494,Chhatisgarh,130.4,5,18.5,Alluvial,rabi,Wheat MPO(JW) 1215 (MPO 1215),"Phosphorus,Nitrogen",17714,50166.54,112kg,60-150,High,"Horse Gram, Black Gram, Mustard"
+495,Himachal Pradesh,127.5,22,18.5,Alluvial,rabi,Wheat MPO(JW) 1215 (MPO 1215),"Phosphorus,Nitrogen",17714,50166.54,112kg,60-150,High,"Horse Gram, Black Gram, Mustard"
+496,Odisha,215,5,18.5,Alluvial,rabi,Wheat MPO(JW) 1215 (MPO 1215),"Phosphorus,Nitrogen",17714,50166.54,112kg,60-150,High,"Horse Gram, Black Gram, Mustard"
+497,Jammu and Kashmir,111.5,17,18.5,Alluvial,rabi,Wheat MPO(JW) 1215 (MPO 1215),"Phosphorus,Nitrogen",17714,50166.54,112kg,60-150,High,"Horse Gram, Black Gram, Mustard"
+498,Bihar,125.6,7.5,23.5,Alluvial,Kharif,Maize PMH 5 (JH 3110),Nitrogen,16000,31369.83628,20kg,95-105,Moderate,"Gram, Beans"
+499,Bihar,125.6,7.5,23.5,Black,Kharif,Maize PMH 5 (JH 3110),Nitrogen,16000,31369.83628,20kg,95-105,Moderate,"Gram, Beans"
+500,Chhatisgarh,130.4,5,23.5,Alluvial,Kharif,Maize PMH 5 (JH 3110),Nitrogen,16000,31369.83628,20kg,95-105,Moderate,"Gram, Beans"
+501,Chhatisgarh,130.4,5,23.5,Black,Kharif,Maize PMH 5 (JH 3110),Nitrogen,16000,31369.83628,20kg,95-105,Moderate,"Gram, Beans"
+502,Maharashtra,246,3.2,23.5,Alluvial,Kharif,Maize PMH 5 (JH 3110),Nitrogen,16000,31369.83628,20kg,95-105,Moderate,"Gram, Beans"
+503,Maharashtra,246,3.2,23.5,Black,Kharif,Maize PMH 5 (JH 3110),Nitrogen,16000,31369.83628,20kg,95-105,Moderate,"Gram, Beans"
+504,Nagaland,215,18.1,23.5,Alluvial,Kharif,Maize PMH 5 (JH 3110),Nitrogen,16000,31369.83628,20kg,95-105,Moderate,"Gram, Beans"
+505,Nagaland,215,18.1,23.5,Alluvial,Kharif,Maize PMH 5 (JH 3110),Nitrogen,16000,31369.83628,20kg,95-105,Moderate,"Gram, Beans"
+506,Bihar,125.6,7.5,25.5,Black,Kharif,Groundnut Kadiri Harithandhra (K 1319),"Superphosphate,Potassium",22507,100177.469,40kg,110-121,High,"Sorghum, Millet"
+507,Bihar,125.6,7.5,26,Black,Kharif,Groundnut GPBD 5,"Superphosphate,Potassium",22507,100177.469,40kg,110-122,High,"Sorghum, Millet"
+508,Chhatisgarh,130.4,5,26,Black,Kharif,Groundnut GPBD 5,"Superphosphate,Potassium",22507,100177.469,40kg,110-122,High,"Sorghum, Millet"
+509,Madhya Pradesh,235.5,22,26,Black,Kharif,Groundnut GPBD 5,"Superphosphate,Potassium",22507,100177.469,40kg,110-122,High,"Sorghum, Millet"
+510,Bihar,125.6,7.5,20.5,Alluvial,rabi,Lentil Pant Lentil-7(Pant L-024),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-61,Moderate,"Barley, Wheat, Oats, Linseed"
+511,Bihar,125.6,7.5,20.5,Black,rabi,Lentil Pant Lentil-7(Pant L-024),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-61,Moderate,"Barley, Wheat, Oats, Linseed"
+512,Chhatisgarh,130.4,5,20.5,Alluvial,rabi,Lentil Pant Lentil-7(Pant L-024),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-61,Moderate,"Barley, Wheat, Oats, Linseed"
+513,Chhatisgarh,130.4,5,20.5,Black,rabi,Lentil Pant Lentil-7(Pant L-024),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-61,Moderate,"Barley, Wheat, Oats, Linseed"
+514,Punjab,60,8.9,20.5,Alluvial,rabi,Lentil Pant Lentil-7(Pant L-024),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-61,Moderate,"Barley, Wheat, Oats, Linseed"
+515,Punjab,60,8.9,20.5,Black,rabi,Lentil Pant Lentil-7(Pant L-024),"Phosphate,Nitrogen","15, 824","21,136",60kg,45-61,Moderate,"Barley, Wheat, Oats, Linseed"
+516,Bihar,125.6,7.5,17.5,Black,rabi,Tobacco,Nitrogen,"1,6,0918","3,60,709",3.5kg,90-120,High,"Groundnut, Pigeonpea"
+517,Madhya Pradesh,235.5,22,17.5,Black,rabi,Tobacco,Nitrogen,"1,6,0918","3,60,709",3.5kg,90-120,High,"Groundnut, Pigeonpea"
+518,Bihar,125.6,7.5,22,Clayey,winter,Tomato,Phosphorus,29233,79126.7,50g,50-60,High,"Spinach, Radish"
+519,Bihar,125.6,7.5,22,Alluvial,winter,Tomato,Phosphorus,29233,79126.7,50g,50-60,High,"Spinach, Radish"
+520,Bihar,125.6,7.5,22,Clayey,winter,Tomato,Phosphorus,29233,79126.7,50g,50-60,High,"Spinach, Radish"
+521,Bihar,125.6,7.5,22,Alluvial,winter,Tomato,Phosphorus,29233,79126.7,50g,50-60,High,"Spinach, Radish"
+522,Bihar,125.6,7.5,22,Black,winter,Tomato,Phosphorus,29233,79126.7,50g,50-60,High,"Spinach, Radish"
+523,Mizoram,257,8,22,Clayey,winter,Tomato,Phosphorus,29233,79126.7,50g,50-60,High,"Spinach, Radish"
+524,Mizoram,257,8,22,Alluvial,winter,Tomato,Phosphorus,29233,79126.7,50g,50-60,High,"Spinach, Radish"
+525,Mizoram,257,8,22,Black,winter,Tomato,Phosphorus,29233,79126.7,50g,50-60,High,"Spinach, Radish"
+526,Chhatisgarh,130.4,5,26.5,Alluvial,winter,Cocoa,"Nitrogen,Potassium,Phosphorus,Sulphur,Calcium,Magnesium,Boron,Zinc","20,000",80000,1.5kg,150-180,Moderate,"Oil palm, Coconut"
+527,Chhatisgarh,130.4,5,26.5,Black,winter,Cocoa,"Nitrogen,Potassium,Phosphorus,Sulphur,Calcium,Magnesium,Boron,Zinc","20,000",80000,1.5kg,150-180,Moderate,"Oil palm, Coconut"
+528,Meghalaya,117.5,4,26.5,Alluvial,winter,Cocoa,"Nitrogen,Potassium,Phosphorus,Sulphur,Calcium,Magnesium,Boron,Zinc","20,000",80000,1.5kg,150-180,Moderate,"Oil palm, Coconut"
+529,Meghalaya,117.5,4,26.5,Black,winter,Cocoa,"Nitrogen,Potassium,Phosphorus,Sulphur,Calcium,Magnesium,Boron,Zinc","20,000",80000,1.5kg,150-180,Moderate,"Oil palm, Coconut"
+530,Uttarakhand,164.5,7.5,26.5,Alluvial,winter,Cocoa,"Nitrogen,Potassium,Phosphorus,Sulphur,Calcium,Magnesium,Boron,Zinc","20,000",80000,1.5kg,150-180,Moderate,"Oil palm, Coconut"
+531,Uttarakhand,164.5,7.5,26.5,Black,winter,Cocoa,"Nitrogen,Potassium,Phosphorus,Sulphur,Calcium,Magnesium,Boron,Zinc","20,000",80000,1.5kg,150-180,Moderate,"Oil palm, Coconut"
+532,Delhi,90,6.7,26.5,Alluvial,winter,Cocoa,"Nitrogen,Potassium,Phosphorus,Sulphur,Calcium,Magnesium,Boron,Zinc","20,000",80000,1.5kg,150-180,Moderate,"Oil palm, Coconut"
+533,Delhi,90,6.7,26.5,Black,winter,Cocoa,"Nitrogen,Potassium,Phosphorus,Sulphur,Calcium,Magnesium,Boron,Zinc","20,000",80000,1.5kg,150-180,Moderate,"Oil palm, Coconut"
+534,Lakshadweep,30,3.8,26.5,Alluvial,winter,Cocoa,"Nitrogen,Potassium,Phosphorus,Sulphur,Calcium,Magnesium,Boron,Zinc","20,000",80000,1.5kg,150-180,Moderate,"Oil palm, Coconut"
+535,Lakshadweep,30,3.8,26.5,Black,winter,Cocoa,"Nitrogen,Potassium,Phosphorus,Sulphur,Calcium,Magnesium,Boron,Zinc","20,000",80000,1.5kg,150-180,Moderate,"Oil palm, Coconut"
+536,Chhatisgarh,130.4,5,28.5,Alluvial,Kharif,Rubber,"Urea,Phosphate,Potash",37936,140000,1500 seedlings,120-130,Low,"Coffee, Cocoa"
+537,Chhatisgarh,130.4,5,24,Alluvial,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+538,Chhatisgarh,130.4,5,24,Sandy,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+539,Chhatisgarh,130.4,5,24,Black,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+540,Goa,295,13,24,Alluvial,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+541,Goa,295,13,24,Sandy,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+542,Goa,295,13,24,Black,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+543,Kerela,315.7,20,24,Alluvial,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+544,Kerela,315.7,20,24,Sandy,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+545,Kerela,315.7,20,24,Black,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+546,Madhya Pradesh,235.5,22,24,Alluvial,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+547,Madhya Pradesh,235.5,22,24,Sandy,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+548,Madhya Pradesh,235.5,22,24,Black,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+549,Odisha,215,5,24,Alluvial,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+550,Odisha,215,5,24,Sandy,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+551,Odisha,215,5,24,Black,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+552,Punjab,60,8.9,24,Alluvial,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+553,Punjab,60,8.9,24,Sandy,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+554,Punjab,60,8.9,24,Black,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+555,Tamil Nadu,145,16.67,24,Alluvial,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+556,Tamil Nadu,145,16.67,24,Sandy,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+557,Tamil Nadu,145,16.67,24,Black,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+558,Uttar Pradesh,134.65,6,24,Alluvial,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+559,Uttar Pradesh,134.65,6,24,Sandy,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+560,Uttar Pradesh,134.65,6,24,Black,Kharif,Masoor,"Rhizobium,Nitrogen","15, 824","21,136",42kg,120-130,Moderate,"Linseed, Sugarcane, Wheat, Mustard"
+561,Chhatisgarh,130.4,5,21.5,Alluvial,rabi,Sunhemp,Nitrogen,10091,30000,140kg,60-90,Low,Cowpea
+562,Chhatisgarh,130.4,5,21.5,Black,rabi,Sunhemp,Nitrogen,10091,30000,140kg,60-90,Low,Cowpea
+563,Chhatisgarh,130.4,5,27.5,Clayey,Kharif,Varagu,NPK,"31,900","40,000",10kg,160-165,Moderate,Millet
+564,Chhatisgarh,130.4,5,27.5,Black,Kharif,Varagu,NPK,"31,900","40,000",10kg,160-165,Moderate,Millet
+565,Chhatisgarh,130.4,5,32.5,Clayey,Kharif,Paddy CR Dhan 601 (IET 18558),"Potassium,Urea",22810,63851.8391,25kg,105-125,High,"Gram, Groundnut"
+566,Chhatisgarh,130.4,5,32.5,Alluvial,Kharif,Paddy CR Dhan 601 (IET 18558),"Potassium,Urea",22810,63851.8391,25kg,105-125,High,"Gram, Groundnut"
+567,Maharashtra,246,3.2,32.5,Clayey,Kharif,Paddy CR Dhan 601 (IET 18558),"Potassium,Urea",22810,63851.8391,25kg,105-125,High,"Gram, Groundnut"
+568,Maharashtra,246,3.2,32.5,Alluvial,Kharif,Paddy CR Dhan 601 (IET 18558),"Potassium,Urea",22810,63851.8391,25kg,105-125,High,"Gram, Groundnut"
+569,Chhatisgarh,130.4,5,22.5,Alluvial,rabi,Wheat Netravati (NIAW 1415),"Phosphorus,Nitrogen",17714,50166.54,112kg,95-100,High,"Horse Gram, Black Gram, Mustard"
+570,Chhatisgarh,130.4,5,21,Alluvial,Kharif,Maize HSC1,Nitrogen,16000,31369.83628,17kg,95-100,High,"Beans, Weeds"
+571,Chhatisgarh,130.4,5,21,Black,Kharif,Maize HSC1,Nitrogen,16000,31369.83628,17kg,95-100,High,"Beans, Weeds"
+572,Himachal Pradesh,127.5,22,21,Alluvial,Kharif,Maize HSC1,Nitrogen,16000,31369.83628,17kg,95-100,High,"Beans, Weeds"
+573,Himachal Pradesh,127.5,22,21,Black,Kharif,Maize HSC1,Nitrogen,16000,31369.83628,17kg,95-100,High,"Beans, Weeds"
+574,Karnataka,121.4,22,21,Alluvial,Kharif,Maize HSC1,Nitrogen,16000,31369.83628,17kg,95-100,High,"Beans, Weeds"
+575,Karnataka,121.4,22,21,Black,Kharif,Maize HSC1,Nitrogen,16000,31369.83628,17kg,95-100,High,"Beans, Weeds"
+576,Madhya Pradesh,235.5,22,21,Alluvial,Kharif,Maize HSC1,Nitrogen,16000,31369.83628,17kg,95-100,High,"Beans, Weeds"
+577,Madhya Pradesh,235.5,22,21,Black,Kharif,Maize HSC1,Nitrogen,16000,31369.83628,17kg,95-100,High,"Beans, Weeds"
+578,Punjab,60,8.9,21,Alluvial,Kharif,Maize HSC1,Nitrogen,16000,31369.83628,17kg,95-100,High,"Beans, Weeds"
+579,Punjab,60,8.9,21,Black,Kharif,Maize HSC1,Nitrogen,16000,31369.83628,17kg,95-100,High,"Beans, Weeds"
+580,Chandigarh,105.5,28,21,Alluvial,Kharif,Maize HSC1,Nitrogen,16000,31369.83628,17kg,95-100,High,"Beans, Weeds"
+581,Chandigarh,105.5,28,21,Black,Kharif,Maize HSC1,Nitrogen,16000,31369.83628,17kg,95-100,High,"Beans, Weeds"
+582,Chhatisgarh,130.4,5,27.5,Clayey,Kharif,Millet Nandi-61 (MH-1548),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-71,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+583,Chhatisgarh,130.4,5,27.5,Black,Kharif,Millet Nandi-61 (MH-1548),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-71,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+584,Rajasthan,48.8,32,28,Clayey,Kharif,Millet Nandi-61 (MH-1548),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-71,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+585,West Bengal,250,9,28,Clayey,Kharif,Millet Nandi-61 (MH-1548),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-71,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+586,West Bengal,250,9,28,Black,Kharif,Millet Nandi-61 (MH-1548),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-71,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+587,Dadra Nagar Haveli and Daman and Diu,89,2,28,Alluvial,Kharif,Millet Nandi-61 (MH-1548),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-71,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+588,Chhatisgarh,130.4,5,28.5,Clayey,Kharif,Millet 86M64 (MSH 203) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-72,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+589,Chhatisgarh,130.4,5,28.5,Black,Kharif,Millet 86M64 (MSH 203) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-72,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+590,Gujarat,115.7,35,28.5,Clayey,Kharif,Millet 86M64 (MSH 203) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-72,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+591,Gujarat,115.7,35,28.5,Black,Kharif,Millet 86M64 (MSH 203) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-72,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+592,Madhya Pradesh,235.5,22,28.5,Clayey,Kharif,Millet 86M64 (MSH 203) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-72,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+593,Madhya Pradesh,235.5,22,28.5,Black,Kharif,Millet 86M64 (MSH 203) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-72,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+594,Punjab,60,8.9,28.5,Clayey,Kharif,Millet 86M64 (MSH 203) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-72,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+595,Punjab,60,8.9,28.5,Black,Kharif,Millet 86M64 (MSH 203) (Hybrid),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-72,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+596,Goa,295,13,18.5,Alluvial,rabi,Barley Pusa Losar (BH- 380),NPK,12000,43500,3kg,60-72,High,Wheat
+597,Haryana,47.5,15,18.5,Alluvial,rabi,Barley Pusa Losar (BH- 380),NPK,12000,43500,3kg,60-72,High,Wheat
+598,Jammu and Kashmir,111.5,17,18.5,Alluvial,rabi,Barley Pusa Losar (BH- 380),NPK,12000,43500,3kg,60-72,High,Wheat
+599,Ladakh,15,22.3,18.5,Alluvial,rabi,Barley Pusa Losar (BH- 380),NPK,12000,43500,3kg,60-72,High,Wheat
+600,Goa,295,13,22.5,Alluvial,Kharif,Maize DHM 119 (BH 4062),Nitrogen,16000,31369.83628,,95-103,High,"Beans, Weeds"
+601,Goa,295,13,22.5,Black,Kharif,Maize DHM 119 (BH 4062),Nitrogen,16000,31369.83628,,95-103,High,"Beans, Weeds"
+602,Haryana,47.5,15,22.5,Alluvial,Kharif,Maize DHM 119 (BH 4062),Nitrogen,16000,31369.83628,,95-103,High,"Beans, Weeds"
+603,Haryana,47.5,15,22.5,Black,Kharif,Maize DHM 119 (BH 4062),Nitrogen,16000,31369.83628,,95-103,High,"Beans, Weeds"
+604,Goa,295,13,30.5,Clayey,Kharif,Millet HHB 226 (MH 1479),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-76,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+605,Goa,295,13,30.5,Black,Kharif,Millet HHB 226 (MH 1479),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-76,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+606,West Bengal,250,9,30.5,Clayey,Kharif,Millet HHB 226 (MH 1479),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-76,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+607,West Bengal,250,9,30.5,Black,Kharif,Millet HHB 226 (MH 1479),"Nitrogen,Magnesium,Potassium,Phosphorus",21570,59556.38316,2.5kg,65-76,Moderate,"Black gram, Moong, Cowpea, Sorghum"
+608,Gujarat,115.7,35,30,Clayey,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+609,Gujarat,115.7,35,30,Alluvial,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+610,Gujarat,115.7,35,30,Black,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+611,Himachal Pradesh,127.5,22,30,Clayey,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+612,Himachal Pradesh,127.5,22,30,Alluvial,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+613,Himachal Pradesh,127.5,22,30,Black,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+614,Madhya Pradesh,235.5,22,30,Clayey,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+615,Madhya Pradesh,235.5,22,30,Alluvial,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+616,Madhya Pradesh,235.5,22,30,Black,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+617,Maharashtra,246,3.2,30,Clayey,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+618,Maharashtra,246,3.2,30,Alluvial,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+619,Maharashtra,246,3.2,30,Black,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+620,Meghalaya,117.5,4,30,Clayey,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+621,Meghalaya,117.5,4,30,Alluvial,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+622,Meghalaya,117.5,4,30,Black,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+623,Punjab,60,8.9,30,Clayey,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+624,Punjab,60,8.9,30,Alluvial,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+625,Punjab,60,8.9,30,Black,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+626,Rajasthan,48.8,32,30,Clayey,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+627,Rajasthan,48.8,32,30,Alluvial,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+628,Rajasthan,48.8,32,30,Black,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+629,Tamil Nadu,145,16.67,30,Clayey,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+630,Tamil Nadu,145,16.67,30,Alluvial,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+631,Tamil Nadu,145,16.67,30,Black,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+632,Uttarakhand,164.5,7.5,30,Clayey,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+633,Uttarakhand,164.5,7.5,30,Alluvial,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+634,Uttarakhand,164.5,7.5,30,Black,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+635,West Bengal,250,9,30,Clayey,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+636,West Bengal,250,9,30,Alluvial,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+637,West Bengal,250,9,30,Black,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+638,Delhi,90,6.7,30,Clayey,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+639,Delhi,90,6.7,30,Alluvial,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+640,Delhi,90,6.7,30,Black,Kharif,Jute,NPK,21900,"89,500",5kg,120-150,High,Chillies
+641,Gujarat,115.7,35,30,Clayey,Kharif,Paddy Chinsurah Rice (IET 19140),"Potassium,Urea",22810,63851.8391,25kg,105-120,High,"Gram, Groundnut"
+642,Gujarat,115.7,35,30,Alluvial,Kharif,Paddy Chinsurah Rice (IET 19140),"Potassium,Urea",22810,63851.8391,25kg,105-120,High,"Gram, Groundnut"
+643,Himachal Pradesh,127.5,22,30,Clayey,Kharif,Paddy Chinsurah Rice (IET 19140),"Potassium,Urea",22810,63851.8391,25kg,105-120,High,"Gram, Groundnut"
+644,Himachal Pradesh,127.5,22,30,Alluvial,Kharif,Paddy Chinsurah Rice (IET 19140),"Potassium,Urea",22810,63851.8391,25kg,105-120,High,"Gram, Groundnut"
+645,Jharkhand,121.4,12,30,Clayey,Kharif,Paddy Chinsurah Rice (IET 19140),"Potassium,Urea",22810,63851.8391,25kg,105-120,High,"Gram, Groundnut"
+646,Jharkhand,121.4,12,30,Alluvial,Kharif,Paddy Chinsurah Rice (IET 19140),"Potassium,Urea",22810,63851.8391,25kg,105-120,High,"Gram, Groundnut"
+647,Maharashtra,246,3.2,30,Clayey,Kharif,Paddy Chinsurah Rice (IET 19140),"Potassium,Urea",22810,63851.8391,25kg,105-120,High,"Gram, Groundnut"
+648,Maharashtra,246,3.2,30,Alluvial,Kharif,Paddy Chinsurah Rice (IET 19140),"Potassium,Urea",22810,63851.8391,25kg,105-120,High,"Gram, Groundnut"
+649,West Bengal,250,9,30,Clayey,Kharif,Paddy Chinsurah Rice (IET 19140),"Potassium,Urea",22810,63851.8391,25kg,105-120,High,"Gram, Groundnut"
+650,West Bengal,250,9,30,Alluvial,Kharif,Paddy Chinsurah Rice (IET 19140),"Potassium,Urea",22810,63851.8391,25kg,105-120,High,"Gram, Groundnut"
+651,Dadra Nagar Haveli and Daman and Diu,89,2,30,Clayey,Kharif,Paddy Chinsurah Rice (IET 19140),"Potassium,Urea",22810,63851.8391,25kg,105-120,High,"Gram, Groundnut"
+652,Dadra Nagar Haveli and Daman and Diu,89,2,30,Alluvial,Kharif,Paddy Chinsurah Rice (IET 19140),"Potassium,Urea",22810,63851.8391,25kg,105-120,High,"Gram, Groundnut"
+653,Gujarat,115.7,35,30.5,Clayey,Kharif,Paddy (CNI 383-5-11),"Potassium,Urea",22810,63851.8391,25kg,105-121,High,"Gram, Groundnut"
+654,Gujarat,115.7,35,30.5,Alluvial,Kharif,Paddy (CNI 383-5-11),"Potassium,Urea",22810,63851.8391,25kg,105-121,High,"Gram, Groundnut"
+655,Maharashtra,246,3.2,30.5,Clayey,Kharif,Paddy (CNI 383-5-11),"Potassium,Urea",22810,63851.8391,25kg,105-121,High,"Gram, Groundnut"
+656,Maharashtra,246,3.2,30.5,Alluvial,Kharif,Paddy (CNI 383-5-11),"Potassium,Urea",22810,63851.8391,25kg,105-121,High,"Gram, Groundnut"
+657,Rajasthan,48.8,32,30.5,Clayey,Kharif,Paddy (CNI 383-5-11),"Potassium,Urea",22810,63851.8391,25kg,105-121,High,"Gram, Groundnut"
+658,Rajasthan,48.8,32,30.5,Alluvial,Kharif,Paddy (CNI 383-5-11),"Potassium,Urea",22810,63851.8391,25kg,105-121,High,"Gram, Groundnut"
+659,West Bengal,250,9,30.5,Clayey,Kharif,Paddy (CNI 383-5-11),"Potassium,Urea",22810,63851.8391,25kg,105-121,High,"Gram, Groundnut"
+660,West Bengal,250,9,30.5,Alluvial,Kharif,Paddy (CNI 383-5-11),"Potassium,Urea",22810,63851.8391,25kg,105-121,High,"Gram, Groundnut"
+661,Dadra Nagar Haveli and Daman and Diu,89,2,30.5,Clayey,Kharif,Paddy (CNI 383-5-11),"Potassium,Urea",22810,63851.8391,25kg,105-121,High,"Gram, Groundnut"
+662,Dadra Nagar Haveli and Daman and Diu,89,2,30.5,Alluvial,Kharif,Paddy (CNI 383-5-11),"Potassium,Urea",22810,63851.8391,25kg,105-121,High,"Gram, Groundnut"
+663,Gujarat,115.7,35,31,Clayey,Kharif,Paddy IGKVR-1 (IET 19569),"Potassium,Urea",22810,63851.8391,25kg,105-122,High,"Gram, Groundnut"
+664,Gujarat,115.7,35,31,Alluvial,Kharif,Paddy IGKVR-1 (IET 19569),"Potassium,Urea",22810,63851.8391,25kg,105-122,High,"Gram, Groundnut"
+665,Rajasthan,48.8,32,31,Clayey,Kharif,Paddy IGKVR-1 (IET 19569),"Potassium,Urea",22810,63851.8391,25kg,105-122,High,"Gram, Groundnut"
+666,Rajasthan,48.8,32,31,Alluvial,Kharif,Paddy IGKVR-1 (IET 19569),"Potassium,Urea",22810,63851.8391,25kg,105-122,High,"Gram, Groundnut"
+667,Gujarat,115.7,35,20.5,Clayey,rabi,Onion,NPK,77850,"1,00,000",15kg,80-150,High,Cabbage
+668,Gujarat,115.7,35,20.5,Alluvial,rabi,Onion,NPK,77850,"1,00,000",15kg,80-150,High,Cabbage
+669,Gujarat,115.7,35,20.5,Black,rabi,Onion,NPK,77850,"1,00,000",15kg,80-150,High,Cabbage
+670,Rajasthan,48.8,32,20.5,Clayey,rabi,Onion,NPK,77850,"1,00,000",15kg,80-150,High,Cabbage
+671,Rajasthan,48.8,32,20.5,Alluvial,rabi,Onion,NPK,77850,"1,00,000",15kg,80-150,High,Cabbage
+672,Rajasthan,48.8,32,20.5,Black,rabi,Onion,NPK,77850,"1,00,000",15kg,80-150,High,Cabbage
+673,Haryana,47.5,15,22.5,Alluvial,Kharif,Cotton CNH012,NPK,28286,"63,000",3kg,80-150,High,"Lentil, Gram, pea"
+674,Manipur,148.8,4,22.5,Alluvial,Kharif,Cotton CNH012,NPK,28286,"63,000",3kg,80-150,High,"Lentil, Gram, pea"
+675,Sikkim,299.5,50,22.5,Alluvial,Kharif,Cotton CNH012,NPK,28286,"63,000",3kg,80-150,High,"Lentil, Gram, pea"
+676,Andaman and Nicobar Island,277,3.5,22.5,Alluvial,Kharif,Cotton CNH012,NPK,28286,"63,000",3kg,80-150,High,"Lentil, Gram, pea"
+677,Haryana,47.5,15,23,Alluvial,Kharif,Cotton CICR-3 (CISA 614),NPK,28286,"63,000",3kg,105-120,High,"Lentil, Gram, pea"
+678,Manipur,148.8,4,23,Alluvial,Kharif,Cotton CICR-3 (CISA 614),NPK,28286,"63,000",3kg,105-120,High,"Lentil, Gram, pea"
+679,Andaman and Nicobar Island,277,3.5,23,Alluvial,Kharif,Cotton CICR-3 (CISA 614),NPK,28286,"63,000",3kg,105-120,High,"Lentil, Gram, pea"
+680,Haryana,47.5,15,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+681,Haryana,47.5,15,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+682,Himachal Pradesh,127.5,22,30.5,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+683,Himachal Pradesh,127.5,22,30.5,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+684,Karnataka,121.4,22,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+685,Karnataka,121.4,22,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+686,Kerela,315.7,20,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+687,Kerela,315.7,20,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+688,Maharashtra,246,3.2,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+689,Maharashtra,246,3.2,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+690,Meghalaya,117.5,4,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+691,Meghalaya,117.5,4,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+692,Punjab,60,8.9,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+693,Rajasthan,48.8,32,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+694,Tamil Nadu,145,16.67,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+695,Tamil Nadu,145,16.67,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+696,Telangana,87.5,8,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+697,Telangana,87.5,8,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+698,Tripura,238.5,6.7,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+699,Tripura,238.5,6.7,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+700,Uttar Pradesh,134.65,6,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+701,Uttar Pradesh,134.65,6,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+702,West Bengal,250,9,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+703,West Bengal,250,9,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+704,Dadra Nagar Haveli and Daman and Diu,89,2,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+705,Dadra Nagar Haveli and Daman and Diu,89,2,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+706,Delhi,90,6.7,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+707,Delhi,90,6.7,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+708,Jammu and Kashmir,111.5,17,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+709,Jammu and Kashmir,111.5,17,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+710,Pudducherry,137.5,12.3,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+711,Pudducherry,137.5,12.3,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+712,Ladakh,15,22.3,30,Clayey,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+713,Ladakh,15,22.3,30,Alluvial,Kharif,Rice,Urea,22810,63851.8391,25kg,105-120,Rice,"Gram, Groundnut"
+714,Himachal Pradesh,127.5,22,15,Alluvial,rabi,Flax,"NPK,Sulfur",,,35kg,120-140,Moderate,"Linseed, Legumes"
+715,Meghalaya,117.5,4,15,Alluvial,rabi,Flax,"NPK,Sulfur",,,35kg,120-140,Moderate,"Linseed, Legumes"
+716,Tamil Nadu,145,16.67,15,Alluvial,rabi,Flax,"NPK,Sulfur",,,35kg,120-140,Moderate,"Linseed, Legumes"
+717,Delhi,90,6.7,15,Alluvial,rabi,Flax,"NPK,Sulfur",,,35kg,120-140,Moderate,"Linseed, Legumes"
+718,Himachal Pradesh,127.5,22,17.5,Alluvial,rabi,Barley BH-902,NPK,12000,43500,,60-70,Moderate,Wheat
+719,Himachal Pradesh,127.5,22,28.5,Alluvial,rabi,Sunflower,"Calcium,Sulfur",21000,90739.71847,9kg,90-100,High,"Groundnut, Maize"
+720,Himachal Pradesh,127.5,22,28.5,Black,rabi,Sunflower,"Calcium,Sulfur",21000,90739.71847,9kg,90-100,High,"Groundnut, Maize"
+721,Jharkhand,121.4,12,28.5,Alluvial,rabi,Sunflower,"Calcium,Sulfur",21000,90739.71847,9kg,90-100,High,"Groundnut, Maize"
+722,Jharkhand,121.4,12,28.5,Black,rabi,Sunflower,"Calcium,Sulfur",21000,90739.71847,9kg,90-100,High,"Groundnut, Maize"
+723,Madhya Pradesh,235.5,22,28.5,Alluvial,rabi,Sunflower,"Calcium,Sulfur",21000,90739.71847,9kg,90-100,High,"Groundnut, Maize"
+724,Madhya Pradesh,235.5,22,28.5,Black,rabi,Sunflower,"Calcium,Sulfur",21000,90739.71847,9kg,90-100,High,"Groundnut, Maize"
+725,Mizoram,257,8,28.5,Alluvial,rabi,Sunflower,"Calcium,Sulfur",21000,90739.71847,9kg,90-100,High,"Groundnut, Maize"
+726,Mizoram,257,8,28.5,Black,rabi,Sunflower,"Calcium,Sulfur",21000,90739.71847,9kg,90-100,High,"Groundnut, Maize"
+727,Punjab,60,8.9,28.5,Alluvial,rabi,Sunflower,"Calcium,Sulfur",21000,90739.71847,9kg,90-100,High,"Groundnut, Maize"
+728,Punjab,60,8.9,28.5,Black,rabi,Sunflower,"Calcium,Sulfur",21000,90739.71847,9kg,90-100,High,"Groundnut, Maize"
+729,Jharkhand,121.4,12,21.5,Alluvial,Kharif,Maize HQPM-4,Nitrogen,16000,31369.83628,,95-101,High,"Beans, Weeds"
+730,Jharkhand,121.4,12,21.5,Black,Kharif,Maize HQPM-4,Nitrogen,16000,31369.83628,,95-101,High,"Beans, Weeds"
+731,Madhya Pradesh,235.5,22,21.5,Alluvial,Kharif,Maize HQPM-4,Nitrogen,16000,31369.83628,,95-101,High,"Beans, Weeds"
+732,Madhya Pradesh,235.5,22,21.5,Black,Kharif,Maize HQPM-4,Nitrogen,16000,31369.83628,,95-101,High,"Beans, Weeds"
+733,Punjab,60,8.9,21.5,Alluvial,Kharif,Maize HQPM-4,Nitrogen,16000,31369.83628,,95-101,High,"Beans, Weeds"
+734,Punjab,60,8.9,21.5,Black,Kharif,Maize HQPM-4,Nitrogen,16000,31369.83628,,95-101,High,"Beans, Weeds"
+735,Telangana,87.5,8,21.5,Alluvial,Kharif,Maize HQPM-4,Nitrogen,16000,31369.83628,,95-101,High,"Beans, Weeds"
+736,Telangana,87.5,8,21.5,Black,Kharif,Maize HQPM-4,Nitrogen,16000,31369.83628,,95-101,High,"Beans, Weeds"
+737,Uttar Pradesh,134.65,6,21.5,Alluvial,Kharif,Maize HQPM-4,Nitrogen,16000,31369.83628,,95-101,High,"Beans, Weeds"
+738,Uttar Pradesh,134.65,6,21.5,Black,Kharif,Maize HQPM-4,Nitrogen,16000,31369.83628,,95-101,High,"Beans, Weeds"
+739,Jammu and Kashmir,111.5,17,21.5,Alluvial,Kharif,Maize HQPM-4,Nitrogen,16000,31369.83628,,95-101,High,"Beans, Weeds"
+740,Jammu and Kashmir,111.5,17,21.5,Black,Kharif,Maize HQPM-4,Nitrogen,16000,31369.83628,,95-101,High,"Beans, Weeds"
+741,Jharkhand,121.4,12,25,Black,Kharif,Groundnut Girnar - 3 (PBS 12160),"Superphosphate,Potassium",22507,100177.469,40kg,175-180,High,"Maize, Sunflower, Oilseed"
+742,Punjab,60,8.9,25,Black,Kharif,Groundnut Girnar - 3 (PBS 12160),"Superphosphate,Potassium",22507,100177.469,40kg,175-180,High,"Maize, Sunflower, Oilseed"
+743,Telangana,87.5,8,25,Black,Kharif,Groundnut Girnar - 3 (PBS 12160),"Superphosphate,Potassium",22507,100177.469,40kg,175-180,High,"Maize, Sunflower, Oilseed"
+744,Pudducherry,137.5,12.3,25,Black,Kharif,Groundnut Girnar - 3 (PBS 12160),"Superphosphate,Potassium",22507,100177.469,40kg,175-180,High,"Maize, Sunflower, Oilseed"
+745,Kerela,315.7,20,31.5,Alluvial,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+746,Kerela,315.7,20,31.5,Sandy,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+747,Kerela,315.7,20,31.5,Black,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+748,Mizoram,257,8,31.5,Alluvial,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+749,Mizoram,257,8,31.5,Sandy,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+750,Mizoram,257,8,31.5,Black,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+751,Odisha,215,5,31.5,Alluvial,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+752,Odisha,215,5,31.5,Sandy,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+753,Odisha,215,5,31.5,Black,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+754,Uttar Pradesh,134.65,6,31.5,Alluvial,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+755,Uttar Pradesh,134.65,6,31.5,Sandy,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+756,Uttar Pradesh,134.65,6,31.5,Black,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+757,Uttarakhand,164.5,7.5,31.5,Alluvial,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+758,Uttarakhand,164.5,7.5,31.5,Sandy,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+759,Uttarakhand,164.5,7.5,31.5,Black,Kharif,Dry Ginger,NPK,"1,20,155.00","4,32,600.00",500kg,175-180,Moderate,"Potato, Chillies, Brinjal"
+760,Kerela,315.7,20,27,Latterite,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+761,Kerela,315.7,20,27,Alluvial,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+762,Kerela,315.7,20,27,Sandy,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+763,Manipur,148.8,4,27,Latterite,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+764,Manipur,148.8,4,27,Alluvial,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+765,Manipur,148.8,4,27,Sandy,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+766,Odisha,215,5,27,Latterite,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+767,Odisha,215,5,27,Alluvial,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+768,Odisha,215,5,27,Sandy,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+769,Sikkim,299.5,50,27,Latterite,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+770,Sikkim,299.5,50,27,Alluvial,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+771,Sikkim,299.5,50,27,Sandy,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+772,Uttar Pradesh,134.65,6,27,Latterite,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+773,Uttar Pradesh,134.65,6,27,Alluvial,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+774,Uttar Pradesh,134.65,6,27,Sandy,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+775,Andaman and Nicobar Island,277,3.5,27,Latterite,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+776,Andaman and Nicobar Island,277,3.5,27,Alluvial,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+777,Andaman and Nicobar Island,277,3.5,27,Sandy,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+778,Chandigarh,105.5,28,27,Latterite,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+779,Chandigarh,105.5,28,27,Alluvial,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+780,Chandigarh,105.5,28,27,Sandy,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+781,Delhi,90,6.7,27,Latterite,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+782,Delhi,90,6.7,27,Alluvial,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+783,Delhi,90,6.7,27,Sandy,rabi,Horse Gram,"Manure,NPK",16610,50058.97238,37kg,120-180,Moderate,Wheat
+784,Madhya Pradesh,235.5,22,23,Black,Kharif,Castor Seed,"Phosphorus,Calcium,Sulfur",,,12kg,7.0-10,Moderate,Oil palm seeds
+785,Madhya Pradesh,235.5,22,23,Alluvial,Kharif,Castor Seed,"Phosphorus,Calcium,Sulfur",,,12kg,7.0-10,Moderate,Oil palm seeds
+786,Punjab,60,8.9,23,Black,Kharif,Castor Seed,"Phosphorus,Calcium,Sulfur",,,12kg,7.0-10,Moderate,Oil palm seeds
+787,Punjab,60,8.9,23,Alluvial,Kharif,Castor Seed,"Phosphorus,Calcium,Sulfur",,,12kg,7.0-10,Moderate,Oil palm seeds
+788,Telangana,87.5,8,23,Black,Kharif,Castor Seed,"Phosphorus,Calcium,Sulfur",,,12kg,7.0-10,Moderate,Oil palm seeds
+789,Telangana,87.5,8,23,Alluvial,Kharif,Castor Seed,"Phosphorus,Calcium,Sulfur",,,12kg,7.0-10,Moderate,Oil palm seeds
+790,Madhya Pradesh,235.5,22,28,Black,rabi,Sesame,NPK,,,5kg,40-45,Low,Sunflower. Groundnut
+791,Maharashtra,246,3.2,28,Black,rabi,Sesame,NPK,,,5kg,40-45,Low,Sunflower. Groundnut
+792,Punjab,60,8.9,28,Black,rabi,Sesame,NPK,,,5kg,40-45,Low,Sunflower. Groundnut
+793,Telangana,87.5,8,28,Black,rabi,Sesame,NPK,,,5kg,40-45,Low,Sunflower. Groundnut
+794,Madhya Pradesh,235.5,22,27.5,Alluvial,Kharif,Sugarcane Karan 6 (Co 0239),Nitrogen,24538,893130.4967,40qq,300-450,High,"Maize, Potato"
+795,Madhya Pradesh,235.5,22,27.5,Black,Kharif,Sugarcane Karan 6 (Co 0239),Nitrogen,24538,893130.4967,40qq,300-450,High,"Maize, Potato"
+796,Punjab,60,8.9,27.5,Alluvial,Kharif,Sugarcane Karan 6 (Co 0239),Nitrogen,24538,893130.4967,40qq,300-450,High,"Maize, Potato"
+797,Punjab,60,8.9,27.5,Black,Kharif,Sugarcane Karan 6 (Co 0239),Nitrogen,24538,893130.4967,40qq,300-450,High,"Maize, Potato"
+798,Tripura,238.5,6.7,27.5,Alluvial,Kharif,Sugarcane Karan 6 (Co 0239),Nitrogen,24538,893130.4967,40qq,300-450,High,"Maize, Potato"
+799,Tripura,238.5,6.7,27.5,Black,Kharif,Sugarcane Karan 6 (Co 0239),Nitrogen,24538,893130.4967,40qq,300-450,High,"Maize, Potato"
+800,Maharashtra,246,3.2,27.5,Clayey,rabi,Peas,NPK,,,35kg,50-100,Low,Barley
+801,Maharashtra,246,3.2,27.5,Black,rabi,Peas,NPK,,,35kg,50-100,Low,Barley
+802,Maharashtra,246,3.2,27.5,Alluvial,rabi,Peas,NPK,,,35kg,50-100,Low,Barley
+803,Maharashtra,246,3.2,33.5,Clayey,Kharif,Paddy RC Maniphou 11 (IET 20193),"Potassium,Urea",22810,63851.8391,25kg,105-127,High,"Gram, Groundnut"
+804,Maharashtra,246,3.2,33.5,Alluvial,Kharif,Paddy RC Maniphou 11 (IET 20193),"Potassium,Urea",22810,63851.8391,25kg,105-127,High,"Gram, Groundnut"
+805,Chandigarh,105.5,28,33.5,Clayey,Kharif,Paddy RC Maniphou 11 (IET 20193),"Potassium,Urea",22810,63851.8391,25kg,105-127,High,"Gram, Groundnut"
+806,Chandigarh,105.5,28,33.5,Alluvial,Kharif,Paddy RC Maniphou 11 (IET 20193),"Potassium,Urea",22810,63851.8391,25kg,105-127,High,"Gram, Groundnut"
+807,Mizoram,257,8,31,Sandy,Kharif,Cowpea,NPK,,,25kg,45-90,Low,Maize
+808,Mizoram,257,8,31,Black,Kharif,Cowpea,NPK,,,25kg,45-90,Low,Maize
+809,Odisha,215,5,31,Clayey,Kharif,Cowpea,NPK,,,25kg,45-90,Low,Maize
+810,Punjab,60,8.9,31,Clayey,Kharif,Cowpea,NPK,,,25kg,45-90,Low,Maize
+811,Odisha,215,5,22,Alluvial,Kharif,Maize MCH 36 (Hybrid) (DKC 9099),Nitrogen,16000,31369.83628,,95-102,Moderate,"Beans, Weeds"
+812,Odisha,215,5,22,Black,Kharif,Maize MCH 36 (Hybrid) (DKC 9099),Nitrogen,16000,31369.83628,,95-102,Moderate,"Beans, Weeds"
+813,Rajasthan,48.8,32,25,Alluvial,rabi,Pulses,"Phosphorus,Calcium,Sulfur,Molybdenum",,,60kg,95-102,High,Miaze
+814,Pudducherry,137.5,12.3,25,Alluvial,rabi,Pulses,"Phosphorus,Calcium,Sulfur,Molybdenum",,,60kg,95-102,High,Miaze
+815,Rajasthan,48.8,32,28.5,Alluvial,Kharif,Sugarcane Co-0218,Nitrogen,24538,893130.4967,40qq,"300-452",High,"Maize, Potato"
+816,Rajasthan,48.8,32,28.5,Black,Kharif,Sugarcane Co-0218,Nitrogen,24538,893130.4967,40qq,"300-452",High,"Maize, Potato"
+817,Uttar Pradesh,134.65,6,28.5,Alluvial,Kharif,Sugarcane Co-0218,Nitrogen,24538,893130.4967,40qq,"300-452",High,"Maize, Potato"
+818,Uttar Pradesh,134.65,6,28.5,Black,Kharif,Sugarcane Co-0218,Nitrogen,24538,893130.4967,40qq,"300-452",High,"Maize, Potato"
+819,Uttar Pradesh,134.65,6,-8.5,Alluvial,rabi,Wheat PDW 314,"Phosphorus,Nitrogen",17714,50166.54,112kg,60-152,Hgh,"Horse Gram, Black Gram, Mustard"
+820,Uttarakhand,164.5,7.5,37.5,Black,winter,Sweet potato,NPK(low),,,37kg,120-125,Low,"Legumes, Chickpea"
+821,Pudducherry,137.5,12.3,23.5,Alluvial,Kharif,Cotton VBCH 2231,NPK,28286,"63,000",3kg,,High,"Lentil, Gram, pea"
